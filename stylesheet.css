@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+
+body{
+    background-color: #FEFCFC;
+    font-family: 'Space Mono', monospace;
+}
+
+h1{
+    font-size: 60px;
+}
+
+h3{
+    font-size: 24px;
+}
+
+a{
+    font-size: 24px;
+}
+
+footer{
+    padding-top: 10%;
+}
+.body{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+    padding-top: 5%;
+}
